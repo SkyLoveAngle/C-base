@@ -1,0 +1,17 @@
+﻿  test.c
+test.c(14): warning C4013: “system”未定义；假设外部返回 int
+test.c(10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  test.c(10): note: 请考虑在格式字符串中使用“%lld”
+  test.c(10): note: 请考虑在格式字符串中使用“%Id”
+  test.c(10): note: 请考虑在格式字符串中使用“%I64d”
+test.c(12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  test.c(12): note: 请考虑在格式字符串中使用“%lld”
+  test.c(12): note: 请考虑在格式字符串中使用“%Id”
+  test.c(12): note: 请考虑在格式字符串中使用“%I64d”
+  正在生成代码
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  class92_1012.vcxproj -> E:\VS2015\class92_1012\x64\Release\class92_1012.exe
+  class92_1012.vcxproj -> E:\VS2015\class92_1012\x64\Release\class92_1012.pdb (Full PDB)
