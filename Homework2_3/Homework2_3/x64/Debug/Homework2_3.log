@@ -1,0 +1,4 @@
+﻿  Homework.c
+e:\vs2015\homework2_3\homework2_3\homework.c(13): warning C4013: “system”未定义；假设外部返回 int
+  Homework2_3.vcxproj -> E:\VS2015\Homework2_3\x64\Debug\Homework2_3.exe
+  Homework2_3.vcxproj -> E:\VS2015\Homework2_3\x64\Debug\Homework2_3.pdb (Partial PDB)
