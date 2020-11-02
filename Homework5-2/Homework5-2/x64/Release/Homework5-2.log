@@ -1,0 +1,11 @@
+﻿  homework.c
+homework.c(50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+homework.c(63): warning C4047: “函数”:“char *”与“char”的间接级别不同
+homework.c(63): warning C4024: “reverse_string”: 形参和实参 1 的类型不同
+  正在生成代码
+  2 of 2 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Homework5-2.vcxproj -> E:\VS2015\Homework5-2\x64\Release\Homework5-2.exe
+  Homework5-2.vcxproj -> E:\VS2015\Homework5-2\x64\Release\Homework5-2.pdb (Full PDB)
