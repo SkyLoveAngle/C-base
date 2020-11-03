@@ -1,0 +1,9 @@
+﻿  homework.c
+e:\vs2015\homework5-4\homework5-4\homework.c(8): error C2082: 形参“n”的重定义
+e:\vs2015\homework5-4\homework5-4\homework.c(9): error C2082: 形参“k”的重定义
+e:\vs2015\homework5-4\homework5-4\homework.c(27): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+  e:\vs2015\homework5-4\homework5-4\homework.c(27): note: 请考虑在格式字符串中使用“%hhd”
+e:\vs2015\homework5-4\homework5-4\homework.c(27): warning C4474: scanf: 格式字符串中传递的参数太多
+  e:\vs2015\homework5-4\homework5-4\homework.c(27): note: 占位符和其参数预计 1 可变参数，但提供的却是 3 参数
+e:\vs2015\homework5-4\homework5-4\homework.c(27): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
