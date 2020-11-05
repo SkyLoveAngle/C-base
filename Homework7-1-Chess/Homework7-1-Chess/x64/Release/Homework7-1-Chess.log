@@ -1,0 +1,9 @@
+﻿  chess.c
+chess.c(167): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  7 of 16 functions (43.8%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Homework7-1-Chess.vcxproj -> E:\VS2015\Homework7-1-Chess\x64\Release\Homework7-1-Chess.exe
+  Homework7-1-Chess.vcxproj -> E:\VS2015\Homework7-1-Chess\x64\Release\Homework7-1-Chess.pdb (Full PDB)
