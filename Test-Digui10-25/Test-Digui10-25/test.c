@@ -123,25 +123,25 @@
 喝汽水，1瓶汽水1元，2个空瓶可以换一瓶汽水
 给20元，可以多少汽水。
 */
-//int drink(money) {
-//	int sum;
-//	if (money<1) {
-//		return 1;
-//	}
-//	else {
-//		sum = (drink(money / 2) + money);
-//	}
-//	return sum;
-//}
-//int main() {
-//	int money = 1;
-//	printf("请输入你想购买的金额:");
-//	scanf("%d", &money);
-//	int bottlenum = drink(money);
-//	printf("您一共可以喝到%d瓶汽水!", bottlenum);
-//	system("pause");
-//	return 0;
-//}
+int drink(money) {
+	int sum;
+	if (money<1) {
+		return 1;
+	}
+	else {
+		sum = (drink(money / 2) + money);
+	}
+	return sum;
+}
+int main() {
+	int money = 1;
+	printf("请输入你想购买的金额:");
+	scanf("%d", &money);
+	int bottlenum = drink(money);
+	printf("您一共可以喝到%d瓶汽水!", bottlenum);
+	system("pause");
+	return 0;
+}
 
 /*
 汉诺塔问题
