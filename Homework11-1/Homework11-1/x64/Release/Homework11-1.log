@@ -1,0 +1,9 @@
+﻿  homework.c
+homework.c(31): warning C4090: “初始化”: 不同的“const”限定符
+  正在生成代码
+  2 of 5 functions (40.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Homework11-1.vcxproj -> E:\VS2015\Homework11-1\x64\Release\Homework11-1.exe
+  Homework11-1.vcxproj -> E:\VS2015\Homework11-1\x64\Release\Homework11-1.pdb (Full PDB)
