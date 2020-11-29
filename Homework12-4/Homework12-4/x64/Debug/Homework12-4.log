@@ -1,0 +1,4 @@
+﻿  homework.c
+e:\vs2015\homework12-4\homework12-4\homework.c(26): warning C4090: “函数”: 不同的“const”限定符
+  Homework12-4.vcxproj -> E:\VS2015\Homework12-4\x64\Debug\Homework12-4.exe
+  Homework12-4.vcxproj -> E:\VS2015\Homework12-4\x64\Debug\Homework12-4.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  homework.c
+e:\vs2015\homework12-4\homework12-4\homework.c(10): warning C4090: “函数”: 不同的“const”限定符
+e:\vs2015\homework12-4\homework12-4\homework.c(12): warning C4013: “system”未定义；假设外部返回 int
+  Homework12-4.vcxproj -> E:\VS2015\Homework12-4\Debug\Homework12-4.exe
+  Homework12-4.vcxproj -> E:\VS2015\Homework12-4\Debug\Homework12-4.pdb (Partial PDB)
